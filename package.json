@@ -53,7 +53,7 @@
   "dependencies": {
     "@cyclonedx/cyclonedx-library": "^1.13.0",
     "commander": "^10.0.0",
-    "normalize-package-data": "^3||^4||^5",
+    "normalize-package-data": "^3||^4",
     "xmlbuilder2": "^3.0.2"
   },
   "devDependencies": {
